@@ -20,7 +20,9 @@
  
 - [Файл дашборду](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/HR_Dashboard.pbix) 
   
-- **[Відео](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Videos/HR_video.mp4)**  
+- **[Відео](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Videos/HR_video.mp4)**
+
+---
 
 ### Travel_report  
 Звіт із навігацією сторінок, інтерактивною картою з визначними місцями та фільтрами для аналізу даних. Включає можливість перемикання між різними категоріями даних через закладки та кнопки.
@@ -45,7 +47,6 @@
 
 ![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Sales_Dashboard.png)
 
-![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Sales_Dashboard.png)
 - **[Файл дашборду](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Sales_Dashboard.pbix)**  
 
 ---
@@ -61,3 +62,6 @@
 ---
 
 Корисні ресурси, які використовувалися при створенні цього та інших проєктів, доступні у [розділі Корисні ресурси](../README.md#корисні-ресурси).
+
+
+
