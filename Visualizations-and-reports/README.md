@@ -20,7 +20,7 @@
  
 - [Файл дашборду](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/HR_Dashboard.pbix) 
   
-- **[Відео](./Videos/HR_Dashboard.mp4)**  
+- **[Відео](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Videos/HR_video.mp4)**  
 
 ### Travel_report  
 Звіт із навігацією сторінок, інтерактивною картою з визначними місцями та фільтрами для аналізу даних. Включає можливість перемикання між різними категоріями даних через закладки та кнопки.
@@ -34,7 +34,8 @@
 ### Population_Density_Map_Ukraine  
 Інтерактивна карта України, яка показує щільність населення за регіонами. Реалізовано умовне форматування кольору залежно від щільності населення, використано картографічні можливості Power BI для візуалізації геоданих.
 
-![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Travel_report_All.png)
+![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Map_Ukraine.png)
+
 - **[Файл дашборду](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Population_Density_Map_Ukraine.pbix)**
   
  ---
