@@ -15,6 +15,8 @@
 
 Дані для аналізу взяті з Kaggle, оброблені у Power Query. Було розраховано міри в DAX, додано параметр для покращення інтерактивності дашборду.
 
+![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_All.png)
+
 ---
 
 ## Детальний опис сторінок:
@@ -44,7 +46,7 @@
 - **Лінійний графік (area chart) – "Average Orders Per Hour Per Day":**
   - Найбільше замовлень припадає на 18:00, найменше – на ранкові години.
 
-[Переглянути скан сторінки Overview]
+![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Overview.png)
 
 ---
 
@@ -60,7 +62,7 @@
 - **Кнопки перемикання (Revenue, Orders, Quantity):**
   - Змінюють параметр аналітики на дашборді.
 
-[Переглянути скан сторінки Sales]
+![]( https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Sales.png)
 
 ---
 
@@ -73,7 +75,7 @@
 - **Діаграма-дерево (treemap) – "Median price per m²":**
   - Відображає медіанну ціну піц за квадратний метр.
 
-[Переглянути скан сторінки Price]
+![]( https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Price.png)
 
 ---
 
@@ -90,7 +92,7 @@
 - **Таблиця – "Pizza Sizes":**
   - Дані про розміри та площу піц.
 
-[Переглянути скан сторінки Leaders]
+![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Leaders.png)
 
 ---
 
@@ -100,8 +102,12 @@
 ---
 
 ## Файли в проєкті:
-- **Power BI файл (.pbix):** Завантажте для детального перегляду інтерактивного дашборду.
-- **Відео-демонстрація:** Перегляньте відео, щоб побачити інтерактивність та функціонал дашборду.
+
+- **Power BI файл (https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Pizza_Sales_Analysis.pbix):** Завантажте для детального перегляду інтерактивного дашборду.
+  
+- **Відео-демонстрація:** 
+Перегляньте відео, щоб побачити інтерактивність та функціонал дашборду:  [Pizza Sales Analysis - відео](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Videos/Pizza_video.mp4)
+
 
 ---
 
