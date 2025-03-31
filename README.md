@@ -17,14 +17,14 @@
 
 - **Pizza Sales Analysis**  
   Дашборд для аналізу продажів піци: ключові показники, замовлення за категоріями, часова активність тощо.  
-  [Детальний опис](./Pizza_Sales_Analysis/README.md)
+  [Детальний опис](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Analytical-projects/README.md)
 
 ---
 
 ## 2. Візуалізації та звіти
 
 Роботи, що базуються на навчальних матеріалах, демонструючи техніки створення візуалізацій у Power BI.  
-[Переглянути роботи](./Visualizations_and_Reports/README.md)
+[Переглянути роботи](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Visualizations-and-reports/README.md)
 
 ---
 
@@ -32,7 +32,7 @@
 
 - **Supermarket Sales Analysis (API Integration)**  
   Аналіз продажів супермаркету з інтеграцією API для автоматичного отримання курсів валют.  
-  [Детальніше](./Supermarket_Sales_Analysis/README.md)
+  [Детальніше](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Power-BI-in-my-other-projects/README.md)
 
 ---
 
