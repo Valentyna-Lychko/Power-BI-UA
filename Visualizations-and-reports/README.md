@@ -9,37 +9,54 @@
 - **Оптимізація продуктивності** за допомогою правильної побудови моделей даних, мінімізації зайвих обчислень та використання ефективних DAX-формул.
 - **Дотримання найкращих практик** для створення зручних і стильних дашбордів, орієнтованих на користувача.
 
+---
+
 ## Опис дашбордів
 
 ### HR_Dashboard  
 У дашборді реалізовано динамічні елементи, які змінюються завдяки кнопкам і закладкам. Наприклад, панель фільтрів змінюється на панель навігації залежно від вибору користувача, а графіки чергуються, відображаючи різні показники. Додано умовне форматування для візуального виділення критичних значень. Може бути використаний як основа для реального HR-звіту.
 
-- **[Файл дашборду](./Files/HR_Dashboard.pbix)**  
-- **[Скріншоти](./Screens/HR_Dashboard/)**  
+ ![]([./Screens/HR_Dashboard/](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/HR_Dashboard_All.png)
+ 
+- [Файл дашборду](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/HR_Dashboard.pbix) 
+  
 - **[Відео](./Videos/HR_Dashboard.mp4)**  
 
 ### Travel_report  
 Звіт із навігацією сторінок, інтерактивною картою з визначними місцями та фільтрами для аналізу даних. Включає можливість перемикання між різними категоріями даних через закладки та кнопки.
 
-- **[Файл дашборду](./Files/Travel_Report.pbix)**  
-- **[Скріншоти](./Screens/Travel_Report/)**  
+![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Travel_report_All.png)
+
+-**[Файл дашборду] [Файл дашборду](./Files/Travel_Report.pbix)** 
+ 
+---
 
 ### Population_Density_Map_Ukraine  
 Інтерактивна карта України, яка показує щільність населення за регіонами. Реалізовано умовне форматування кольору залежно від щільності населення, використано картографічні можливості Power BI для візуалізації геоданих.
 
-- **[Файл дашборду](./Files/Population_Density_Map_Ukraine.pbix)**  
-- **[Скріншоти](./Screens/Population_Density_Map_Ukraine/)**  
+![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Travel_report_All.png)
+- **[Файл дашборду](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Population_Density_Map_Ukraine.pbix)**
+  
+ ---
 
 ### Sales_Dashboard  
 Звіт для аналізу базових показників продажів. Використано часові інтелектуальні функції DAX для порівняння періодів, додано фільтрацію за категоріями, сегментами та регіонами.
 
-- **[Файл дашборду](./Files/Sales_Dashboard.pbix)**  
-- **[Скріншоти](./Screens/Sales_Dashboard/)**  
+![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Sales_Dashboard.png)
+
+![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Sales_Dashboard.png)
+- **[Файл дашборду](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Sales_Dashboard.pbix)**  
+
+---
 
 ### Marketing_metrics  
 Дашборд містить аналіз маркетингових метрик, таких як ROMI, CPC, CPM, CTR, що дозволяють оцінити ефективність рекламних кампаній. Використано розрахункові показники DAX, умовне форматування для швидкого аналізу ефективності кампаній, інтерактивні KPI-карти.
 
-- **[Файл дашборду](./Files/Marketing_Metrics.pbix)**  
-- **[Скріншоти](./Screens/Marketing_Metrics/)**  
+![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Marketing_metrics.png)
+
+- **[Файл дашборду](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Marketing_metrics.pbix)**  
+
+
+---
 
 Корисні ресурси, які використовувалися при створенні цього та інших проєктів, доступні у [розділі Корисні ресурси](../README.md#корисні-ресурси).
