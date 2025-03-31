@@ -15,7 +15,9 @@
 
 Дані для аналізу взяті з Kaggle, оброблені у Power Query. Було розраховано міри в DAX, додано параметр для покращення інтерактивності дашборду.
 
+
 ![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_All.png)
+
 
 ---
 
@@ -45,6 +47,7 @@
   - Пік припадає на п’ятницю, найменше замовлень у неділю.
 - **Лінійний графік (area chart) – "Average Orders Per Hour Per Day":**
   - Найбільше замовлень припадає на 18:00, найменше – на ранкові години.
+    
 
 ![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Overview.png)
 
@@ -61,6 +64,7 @@
 - **Горизонтальний стовпчастий графік (бар-чарт) – Рейтинг піц за кількістю замовлень.**
 - **Кнопки перемикання (Revenue, Orders, Quantity):**
   - Змінюють параметр аналітики на дашборді.
+    
 
 ![]( https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Sales.png)
 
@@ -74,6 +78,7 @@
   - Відображає ціни піц різних розмірів.
 - **Діаграма-дерево (treemap) – "Median price per m²":**
   - Відображає медіанну ціну піц за квадратний метр.
+    
 
 ![]( https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Price.png)
 
@@ -91,6 +96,7 @@
   - Відображає піци, на які слід звернути увагу.
 - **Таблиця – "Pizza Sizes":**
   - Дані про розміри та площу піц.
+    
 
 ![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Leaders.png)
 
@@ -103,7 +109,10 @@
 
 ## Файли в проєкті:
 
-- **Power BI файл (https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Pizza_Sales_Analysis.pbix):** Завантажте для детального перегляду інтерактивного дашборду.
+- **Power BI файл**
+[Pizza_Sales_Analysis.pbix](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Pizza_Sales_Analysis.pbix):  
+**Завантажте для детального перегляду інтерактивного дашборду.**
+
   
 - **Відео-демонстрація:** 
 Перегляньте відео, щоб побачити інтерактивність та функціонал дашборду:  [Pizza Sales Analysis - відео](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Videos/Pizza_video.mp4)
