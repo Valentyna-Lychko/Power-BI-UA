@@ -16,7 +16,7 @@
 ### HR_Dashboard  
 У дашборді реалізовано динамічні елементи, які змінюються завдяки кнопкам і закладкам. Наприклад, панель фільтрів змінюється на панель навігації залежно від вибору користувача, а графіки чергуються, відображаючи різні показники. Додано умовне форматування для візуального виділення критичних значень. Може бути використаний як основа для реального HR-звіту.
 
- ![]([./Screens/HR_Dashboard/](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/HR_Dashboard_All.png)
+ ![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/HR_Dashboard_All.png)
  
 - [Файл дашборду](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/HR_Dashboard.pbix) 
   
@@ -27,7 +27,7 @@
 
 ![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Travel_report_All.png)
 
--**[Файл дашборду] [Файл дашборду](./Files/Travel_Report.pbix)** 
+-**[Файл дашборду](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Travel_report.pbix)** 
  
 ---
 
