@@ -127,4 +127,8 @@ IF(
 
 Цей проєкт допомагає вдосконалити навички роботи з Power BI, створюючи аналітичні рішення на основі реальних даних.  
 
-Інші проєкти Power BI доступні в окремому репозиторії: **Power BI Repository**.  
+Інші проєкти, виконані з використанням таких інструментів, як Tableau, Looker Studio, SQL та BigQuery, можна знайти у репозиторії **[Data-Analytics-Projects-UA](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-.git)**.
+
+
+
+ -----
