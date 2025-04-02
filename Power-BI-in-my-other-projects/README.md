@@ -13,6 +13,8 @@
 
 - Проаналізовано дані з Kaggle-датасету "Supermarket Sales".
 
+  ![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Currency_Conversion.png)
+
 ---
 
 ## Опис датасету
@@ -117,9 +119,10 @@ IF(
 
 ## Файли в репозиторії:
 
-- **`dashboard.pbix`**  
+**[файл Power BI](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Sales_Analysis_with_Currency_Conversion.pbix)**  
   Основний файл Power BI, що містить реалізовані візуалізації та аналітику.  
 
+    
 - **`dashboard_screenshot.png`**  
   Знімок екрана з побудованим дашбордом.
 
