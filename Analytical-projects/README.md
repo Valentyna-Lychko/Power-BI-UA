@@ -22,7 +22,7 @@
 
 - **відео2**
 <video width="600" controls>
-    <source src="https://github.com/user-attachments/assets/9a9d8846-b9df-4c08-af98-aa65884a199b" type="video/mp4">
+    <source src="https://github.com/Valentyna-Lychko/Power-BI-UA/issues/1" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
