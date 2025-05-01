@@ -13,21 +13,6 @@
 - **Price** - Pizza Pricing by Size and m²
 - **Leaders** - Top Pizzas by Size, Price, and Popularity
 
-- **відео**
-<video width="600" controls>
-    <source src="https://raw.githubusercontent.com/Valentyna-Lychko/Power-BI-UA/main/Dashboard_Videos/Pizza_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
-
-- **відео2**
-<video width="600" controls>
-    <source src="https://github.com/Valentyna-Lychko/Power-BI-UA/issues/1" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
-
-
 Дані для аналізу взяті з Kaggle, оброблені у Power Query. Було розраховано міри в DAX, додано параметр для покращення інтерактивності дашборду.
 
 
