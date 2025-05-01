@@ -20,6 +20,11 @@
 </video>
 
 
+- **відео2**
+<video width="600" controls>
+    <source src="https://github.com/user-attachments/assets/9a9d8846-b9df-4c08-af98-aa65884a199b" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 
 Дані для аналізу взяті з Kaggle, оброблені у Power Query. Було розраховано міри в DAX, додано параметр для покращення інтерактивності дашборду.
